@@ -13,14 +13,14 @@ Big Chungus has awakened and must satisfy his hunger with delicious carrots. Run
 7. SpeedTutor_Full_Menu_System
 ## Assets used outside of Asset Store
 1. Knuckles
-[wardd]https://sketchfab.com/3d-models/ugandan-knuckles-d6d71193eaf7498e81d84ec10eb2b576
+[wardd](https://sketchfab.com/3d-models/ugandan-knuckles-d6d71193eaf7498e81d84ec10eb2b576)
 Small changes made
 
 2. Seagull sound
-[Mondfisch89]https://freesound.org/people/Yudena/sounds/377575/
+[Mondfisch89](https://freesound.org/people/Yudena/sounds/377575/)
 
 3. Chungus
-[Rico Balakit]https://poly.google.com/view/5BJ2H5mE48Y
+[Rico Balakit](https://poly.google.com/view/5BJ2H5mE48Y)
 Small changes made
 
 
