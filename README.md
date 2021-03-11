@@ -32,7 +32,7 @@ Big Chungus has awakened and must satisfy his hunger with delicious carrots. Run
 3. Navigate to the extracted files
 4. Run The Amazing Chungus Application
 ### Mac
-1. Download "The.Amazing.Chungus_release(Mac).zip"
+1. Download "Chugnus.MacBuild.app.zip"
 2. Extract to a folder
 3. Navigate to the extracted files (Contents/MacOS/The Amazing Chungus app)
 4. Run The Amazing Chungus Application
